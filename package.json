@@ -1,0 +1,29 @@
+{
+  "name": "webpack-start-project",
+  "version": "0.0.1",
+  "description": "webpack project scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geovanerocha/webpack-start-project.git"
+  },
+  "keywords": [
+    "webpack",
+    "scaffold",
+    "boilerplate"
+  ],
+  "author": "Geovane Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geovanerocha/webpack-start-project/issues"
+  },
+  "homepage": "https://github.com/geovanerocha/webpack-start-project#readme",
+  "devDependencies": {
+    "react": "^0.14.8",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
